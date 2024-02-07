@@ -1,0 +1,8 @@
+img{
+    position: relative;
+    width: 200px;
+    left: 10px;
+    /* box-shadow: 20px 30px 10px #ccc; */
+    filter: drop-shadow(20px 40px 10px red);
+    
+}
